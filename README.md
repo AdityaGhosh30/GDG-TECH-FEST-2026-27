@@ -1,2 +1,12 @@
-# GDG-TECH-FEST-2026-27
-GDG Fest 2026 is a vibrant tech festival website built to bring innovation, creativity, and technology together. Designed with a modern futuristic look, it highlights events, speakers, workshops, and exciting experiences while creating an engaging space for developers and tech enthusiasts.
+# Tekno Krraft 2026
+
+Single-file website for Tekno Krraft 2026 by GDG SOA, ITER.
+
+## Run locally
+Open `index.html` in any browser (internet needed for fonts and icons).
+
+## Edit content
+Change the settings block at the top of the `<script>` (register URL, event date, schedule, tracks, speakers, FAQ).
+
+## Host free on GitHub Pages
+Repo Settings > Pages > Deploy from branch > main > / (root).
